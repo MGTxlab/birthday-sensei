@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# notes perso — brief/plan personnel, jamais dans un dépôt public
+README_Birthday_Sensei.md
